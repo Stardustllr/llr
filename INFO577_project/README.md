@@ -29,3 +29,5 @@ Global_Sales - Total worldwide sales.
 There are 16,598 records. 2 records were dropped due to incomplete information.
 
 I mainly do the visualization of the data and do the prediction of the future sales of the games.
+
+The notebook name is called 'FinalProject_LongruiLi.ipynb' and the data is called 'vgsales.csv' store in docs
